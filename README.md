@@ -1,2 +1,3 @@
 # db-legs
-From data of Deutsche Bahn API creates json output of legs between two cities
+Aim:
+Create a clear and simple output of legs bewteen two cities from the data available in Deutsche Bahn API.
