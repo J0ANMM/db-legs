@@ -42,3 +42,4 @@ Deutsche Bahn API:
 
 In GitHub:
 * https://github.com/dbopendata/db-fahrplan-api
+* https://github.com/fredlockheed/db-fv-gtfs/releases (GTFS)
