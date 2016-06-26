@@ -15,6 +15,7 @@ Code works, but it can definitely be optimized and improved. Any contribution to
 ### Additional information:
 Deutsche Bahn API:
 * http://data.deutschebahn.com/apis/fahrplan/
+* https://s3.eu-central-1.amazonaws.com/opendata-dbsiat/static/apis/fahrplan/Fpl-API-Doku-Open-Data-BETA-0_81_2.pdf
 
 In GitHub:
 * https://github.com/dbopendata/db-fahrplan-api
