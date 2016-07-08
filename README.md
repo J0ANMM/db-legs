@@ -35,9 +35,9 @@ Output would look like this:
     ...
 
 ### Steps
-* 1) Download [latest GFTS release](https://github.com/fredlockheed/db-fv-gtfs/releases)
-* 2) Run API_DB_part1.py
-* 3) Run API_DB_part2.py
+1. Download [latest GFTS release](https://github.com/fredlockheed/db-fv-gtfs/releases)
+2. Run API_DB_part1.py
+3. Run API_DB_part2.py
 
 
 ### Important
