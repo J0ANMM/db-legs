@@ -6,6 +6,7 @@ import time
 
 start_time = time.time()
 
+#path where all txt files from GFTS have been stored
 path = 'GFTS/2016.0.1/'
 
 ### Functions definition ###
